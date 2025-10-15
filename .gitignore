@@ -7,3 +7,4 @@ dist/
 /test.cmd
 /*.spec
 *.egg-info/
+*.csv
